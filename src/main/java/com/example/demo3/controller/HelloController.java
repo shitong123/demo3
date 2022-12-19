@@ -12,5 +12,6 @@ public class HelloController {
         System.out.print("this is master commit");
         System.out.print("this is dev commit");
         System.out.print("pull test");
+        System.out.print("gitee push test");
     }
 }
