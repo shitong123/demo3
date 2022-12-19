@@ -10,4 +10,5 @@ public class HelloController {
     System.out.print("success merge dev");
     System.out.print("this is master commit");
     System.out.print("this is dev commit");
+    System.out.print("pull test");
 }
