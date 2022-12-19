@@ -8,4 +8,5 @@ public class HelloController {
     System.out.print("333");
     System.out.print("dev commit");
     System.out.print("success merge dev");
+    System.out.print("this is master commit");
 }
